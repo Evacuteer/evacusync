@@ -6,7 +6,7 @@ Data sync between the Evacuteer CiviCrm database and the central data store for 
 
 ## Details
 
-Evacuteer uses a CiviCrm system to organize voluteers. This system current serves at the primary/master data store and is the system of record for information about volunteers.
+Evacuteer uses a CiviCrm system to organize volunteers. This system current serves at the primary/master data store and is the system of record for information about volunteers.
 
 The volunteer data is needed in the suite of Evacuteer systems, but the format that the data is stored at in CiviCrm is not ideal or access by applications or frameworks other than Drupal with CiviCrm.
 

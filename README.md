@@ -10,5 +10,5 @@ Evacuteer uses a CiviCrm system to organize volunteers. This system current serv
 
 The volunteer data is needed in the suite of Evacuteer systems, but the format that the data is stored at in CiviCrm is not ideal or access by applications or frameworks other than Drupal with CiviCrm.
 
-This system pulls data from the CiviCrm instance and inserts it into a central database that can be more easily quried.
+This system pulls data from the CiviCrm instance and inserts it into a central database that can be more easily queried.
 

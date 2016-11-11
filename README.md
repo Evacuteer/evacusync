@@ -12,3 +12,6 @@ The volunteer data is needed in the suite of Evacuteer systems, but the format t
 
 This system pulls data from the CiviCrm instance and inserts it into a central database that can be more easily queried.
 
+### CiviCrm Database
+
+The CiviCrm database that powers the Evacuteer volunteer coordination effort contains 170 tables stored in a MySQL instance hosted by CiviCrm.org.
